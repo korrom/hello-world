@@ -1,5 +1,4 @@
 # hello-world
-Just another repositiry
 
 Hi, humans!
 На поле танки грохотали
